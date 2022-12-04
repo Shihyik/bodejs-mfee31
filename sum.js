@@ -7,3 +7,4 @@ function sum(n){
 
 }
 console.log(sum(3))
+
